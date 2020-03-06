@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  padding:0;
+  background-color: #effffb;
+}
+#food {
+  background-image: url(images/red.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+  text-align: center;
+  color: #272727;
+
+}
+.hd1 h1{
+  font-weight: 900;
+}
+.hd1 p {
+  font-weight: 900;
+  font-size: 1em;
+  color: red;
+  background-color: black;
+}
+.hd1 {
+  height: 200px;
+width: 400px;
+
+
+position: fixed;
+top: 30%;
+left: 50%;
+margin-top: -100px;
+margin-left: -200px
+}
+.ip1{
+ position: fixed;
+  top: 30%;
+  text-align: center;
+  align-items: center;
+  background-color: #272727;
+
+width: 100%;
+color: #effffb;
+
+}
+.b1 {
+  margin: 1%;
+}
+#root {
+position: absolute;
+top: 60%;
+height:40%;
+margin-left: 5%;
+}
+.row{
+
+margin: auto;
+background-color: white;
+
+
+
+}
